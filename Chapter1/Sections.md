@@ -1,0 +1,15 @@
+# Sections
+
+| Time Req | Visual | Section |
+|----------|--------|---------|
+| 5        | ![](https://i.imgur.com/InnK1U3.jpg) | 0.0 - Revision History |
+| 8        |        |         |
+| 8        |        |         |
+| 7        |        |         |
+| 15       |        |         |
+| 10       |        |         |
+| 20       |        |         |
+| 1        |        |         |
+| 7        |        |         |
+| 7        |        |         |
+| 20       |        |         |
